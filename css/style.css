@@ -595,7 +595,7 @@ textarea {
   color: #ffffff;
 }
 .trends__title-link:hover {
-  text-shadow: 1px 1px 1px #b59f5b;
+  color: #b59f5b;
 }
 
 .trends__content {
